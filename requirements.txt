@@ -1,0 +1,12 @@
+delira==0.6.0
+numpy==1.23.5
+numpy==1.24.3
+opencv_python==4.7.0.72
+Pillow==9.4.0
+Pillow==11.1.0
+scikit_learn==1.2.2
+scipy==1.15.1
+Surface_Distance_Based_Measures==0.1
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.65.0
