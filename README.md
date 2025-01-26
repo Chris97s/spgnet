@@ -8,7 +8,7 @@ You should download the datasets mentioned in the paper from the following links
 
 (1) BUSI: [Breast Ultrasound Images Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset/data)
 
-(2) JSRT: [Japanese Society of Radiological Technology Database](http://db.jsrt.or.jp/eng.php)
+(2) miniJSRT(Segmentation02): [Japanese Society of Radiological Technology Database](http://imgcom.jsrt.or.jp/minijsrtdb/)
 
 If necessary, run the code in ./dataset/split_masks.py to pre-separate the connected components.
 
