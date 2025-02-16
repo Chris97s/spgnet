@@ -1,8 +1,6 @@
 delira==0.6.0
-numpy==1.23.5
 numpy==1.24.3
 opencv_python==4.7.0.72
-Pillow==9.4.0
 Pillow==11.1.0
 scikit_learn==1.2.2
 scipy==1.15.1
